@@ -1,0 +1,14 @@
+# DataScraper
+#1# Open Terminal in Directory 
+
+#2# Run the following commands: 
+#      sudo apt-get update
+#      sudo apt-get intsall python
+#      sudo apt-get install python-matplotlib
+#      pip3 install -r requirements.txt
+#      pyinstaller --onefile DataScraper(Souq.com).py
+
+#3# Open dist Folder
+
+#4# Open Terminal in Directory and type the folowing and press Enter:
+#      ./image_resize 		       

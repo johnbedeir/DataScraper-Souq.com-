@@ -1,0 +1,4 @@
+tk==0.1.0
+pandas
+requests
+bs4
